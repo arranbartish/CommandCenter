@@ -31,5 +31,8 @@
     "jquery-ui": "^1.12.1",
     "angular-ui-calendar": "^1.0.2",
     "angular-chat": "^2.0.0"
+  },
+  "resolutions": {
+    "angular": "1.7.2"
   }
 }
